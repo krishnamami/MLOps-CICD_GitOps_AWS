@@ -42,6 +42,10 @@ This project implements a complete **end-to-end MLOps lifecycle** using **modula
 | Language          | Python 3.10                   |
 
 ---
+![MLOps-CICD_GitOps_AWS 🚀 - visual selection](https://github.com/user-attachments/assets/420865e6-d538-45de-bdad-fe10e2aa4616)
+
+
+
 
 ## 🚀 Getting Started
 
