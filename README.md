@@ -60,6 +60,9 @@ This project implements a complete **end-to-end MLOps lifecycle** using **modula
   - `AWS_ECR_LOGIN_URI`
   - `MONGO_DB_URL` (if used in app)
 
+## Project Structure 
+
+![image](https://github.com/user-attachments/assets/9974e5b8-7e79-4e17-9c65-c2e8c1751a3f)
 
 🧠 Future Enhancements
 Integrate Terraform for infrastructure-as-code (ECR, S3, EC2 provisioning)
